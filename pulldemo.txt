@@ -1,6 +1,6 @@
 Iam verifying the pullrequest
 
 
-commit my code to new a newbranch
+commit my code to a newbranch
 
 
