@@ -1,0 +1,17 @@
+login to github
+git bash - pwd
+commands:
+git add
+git commit
+git branch
+git checkout
+git log
+git rebox
+git merge
+git pull
+git push
+git clone
+git fetch
+git status
+Pjyothi@143
+https://github.com/jyothipasumarthi/Team14_JavaProgram.git

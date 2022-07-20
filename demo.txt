@@ -1,0 +1,17 @@
+1.signup to github
+2.login to github
+3.create a public repository
+4.created a newfile into repository
+5.commited newfile to mainbranch in repository
+6.verify that newfile is commited to repository
+7.refresh and verify in repository
+
+8.created a newfile and commited to a new branch
+9.created a new branch
+10.raised a pullreq from my_branch to main branch 
+11.verified if any conflicts are ther with my branch compared to main branch
+12.merged my_branch to main_branch
+13.confirm merging process and veriifed the updations in main branch
+
+
+git clone https://github.com/jyothipasumarthi/Team14_JavaProgram.git
